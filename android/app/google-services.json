@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907190143251",
+    "firebase_url": "https://nova-app-a90a4.firebaseio.com",
+    "project_id": "nova-app-a90a4",
+    "storage_bucket": "nova-app-a90a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907190143251:android:ac9a9adad927f5df",
+        "android_client_info": {
+          "package_name": "com.purpleplane.nova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907190143251-k3fo44uog6uod5esoga2u1uu8c3ktphk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlDaE2Ewn7lFwcYpLp9oKTB-03RWZvNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907190143251-k3fo44uog6uod5esoga2u1uu8c3ktphk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
